@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: sinatra_image_development
+
+production:
+  adapter: postgresql
+  database: sinatra_image
+
+test:
+  adapter: postgresql
+  database: sinatra_image_test

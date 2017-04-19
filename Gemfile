@@ -2,6 +2,7 @@ source "https://rubygems.org"
 require "rubygems"
 
 gem 'sinatra'
+gem "sinatra-activerecord"
 gem 'pry'
 gem 'puma'
 gem 'sequel'
